@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Magpie: an apology to our partners"
-excerpt: "Above the eaves lives a magpie"
 categories:
   - Poetry
 tags:
