@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            George Cloake
-tagline:          'Poetry'
+title:
+tagline:          'A poetry collection'
 description:      'A poetry collection'
 url:              https://gcloake.github.io
 baseurl:
