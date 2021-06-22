@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A new discovery"
+title: "A year inside"
 categories:
   - Poetry
 tags:
@@ -9,17 +9,17 @@ tags:
   - Nature
 ---
 <div class="message">
-Today I saw the seasons  
-for the very first time.
+Today I saw the seasons  </br>
+for the very first time. </br></br>
 
-A year inside  
-to open my eyes  
-now watch  
-the clematis climb.
+A year inside  </br>
+to open my eyes  </br>
+now watch  </br>
+the clematis climb. </br></br>
 
-Stop,  
-and *see* the seasons!  
-Breathe,  
-take heed  
+Stop,  </br>
+and *see* the seasons!  </br>
+Breathe,  </br>
+take heed  </br>
 of time.
 </div>
