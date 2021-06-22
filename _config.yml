@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:
+title:            gc
 tagline:          'A poetry collection'
 description:      'A poetry collection'
 url:              https://gcloake.github.io
