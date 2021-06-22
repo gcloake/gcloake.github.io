@@ -8,6 +8,7 @@ tags:
   - Mental Health
   - Nature
 ---
+<div class="message">
 Today I saw the seasons  
 for the very first time.
 
@@ -21,3 +22,4 @@ and *see* the seasons!
 Breathe,  
 take heed  
 of time.
+</div>
