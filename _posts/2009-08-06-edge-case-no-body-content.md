@@ -1,12 +1,28 @@
 ---
 layout: post
-title: "Edge Case: No Body Content"
+title: "Magpie: an apology to our partners"
 excerpt: "This post has no body content and should be blank on the post's page."
 categories:
-  - Edge Case
+  - Poetry
 tags:
-  - content
-  - edge case
-  - layout
-last_modified_at: 2017-03-09T14:23:48-05:00
+  - Relationships
 ---
+Above the eaves lives a magpie
+who I blame for many things:
+stolen seeds, spilled milk,
+shoes by the door.
+
+Yet you don't deserve this reputation,
+these presumptions of mine.
+I should see you as a blessing
+the beauty that you bring.
+
+Forgive me for lacking patience,
+my accusations and ire.
+Alone I'd have just sorrow
+but together there is joy.
+
+Continue to look over me magpie,
+my friend of several years.
+Condemn me not, as I do you,
+and stay for many more.
