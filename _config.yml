@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            GC
+title:            George Cloake
 tagline:          'Poetry'
-description:      'A collection of poetry'
+description:      'A poetry collection'
 url:              https://gcloake.github.io
 baseurl:
                   # the optional subpath of your site, e.g. "/blog"
