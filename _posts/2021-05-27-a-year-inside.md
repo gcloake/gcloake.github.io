@@ -4,22 +4,19 @@ title: "A year inside"
 categories:
   - Poetry
 tags:
-  - Health
-  - Mental Health
-  - Nature
+  - COVID-19
 ---
-<div class="message">
-Today I saw the seasons  </br>
-for the very first time. </br></br>
+Today I saw the seasons  
+for the very first time. 
 
-A year inside  </br>
-to open my eyes  </br>
-now watch  </br>
-the clematis climb. </br></br>
+A year inside  
+to open my eyes  
+now watch  
+the clematis climb. 
 
-Stop,  </br>
-and *see* the seasons!  </br>
-Breathe,  </br>
-take heed  </br>
+Stop,  
+and *see* the seasons!  
+Breathe,  
+take heed  
 of time.
 </div>
