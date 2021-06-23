@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A year inside"
+title: "Year inside"
 categories:
   - Poetry
 tags:

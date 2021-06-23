@@ -5,9 +5,6 @@ categories:
   - Poetry
 tags:
   - Human Nature
-  - Hobbies
-  - Passions
-  - Interests
 ---
 A new discovery,  
 ripe to the mind.  
