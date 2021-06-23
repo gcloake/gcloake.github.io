@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            gc
-tagline:          'A poetry collection'
-description:      'A poetry collection'
+tagline:          'A poetry journal'
+description:      'A poetry journal'
 url:              https://gcloake.github.io
 baseurl:
                   # the optional subpath of your site, e.g. "/blog"
@@ -16,7 +16,7 @@ baseurl:
 
 author:
   name:           'George Cloake'
-  url:            https://georgecloake.medium.com
+  url:            
 
 paginate:         5
 # paginate_path:    '/page:num'
