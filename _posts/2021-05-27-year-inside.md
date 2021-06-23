@@ -19,4 +19,3 @@ and *see* the seasons!
 Breathe,  
 take heed  
 of time.
-</div>
