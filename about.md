@@ -5,9 +5,6 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+Welcome to my poetry collection. I share most of my poems here and I hope you find at least one you like. I write poetry to better explore my thoughts and enjoy reflecting back on them afterwards. This collection is an ongoing work-in-progress and so I welcome any comments or critique from those interested in poetry.
+- George
 </p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
