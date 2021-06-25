@@ -11,19 +11,14 @@ who I blame for many things:
 stolen seeds, spilled milk,
 shoes by the door.
 
-When the day is long
-and space is short
-tempers fray
-
-
-Though you don't deserve this reputation,
+But you don't deserve this reputation,
 these presumptions of mine.
-I should see you as a blessing
+I should see you as a blessing,
 the beauty that you bring.
 
 Forgive me for lacking patience,
 my accusations and ire.
-Alone I'd have but sorrow -
+Alone I'd have but sorrow-
 together there is joy.
 
 Continue to look over me magpie,
