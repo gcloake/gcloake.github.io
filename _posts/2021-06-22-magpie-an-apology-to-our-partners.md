@@ -3,10 +3,12 @@ layout: post
 comments: true
 title: "Magpie: an apology to our partners"
 categories:
-  - Poetry
+  - Poems
 tags:
   - Relationships
 ---
+Magpies have a fascinating cultural history, differing greatly across the world. Demon to some, sacred to others. A common site in the UK, I've had the opportunity to observe one (Eurasian magpie) this summer visiting my roof. After a rocky start, I'm optimistic we can reach a truce for next spring.
+
 > Above the eaves lives a magpie   
 > who I blame for many things:  
 > stolen seeds, spilled milk,  

@@ -16,7 +16,7 @@ I feel like time has changed over the last year. Many of us have had more of it,
 >
 > A year inside  
 > to open my eyes  
-> and notice  
+> and watch  
 > the clematis climb. 
 >
 > Stop,  
@@ -27,4 +27,4 @@ I feel like time has changed over the last year. Many of us have had more of it,
 
 
 
-![](/images/IMG_0195.jpg)
+![Clematis](/images/IMG_0195.jpg)
