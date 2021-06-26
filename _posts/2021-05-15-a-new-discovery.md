@@ -1,11 +1,11 @@
 ---
 layout: post
+comments: true
 title: "A new discovery"
 categories:
   - Poetry
 tags:
   - Human Nature
-comments: true
 ---
 > A new discovery,  
 > ripe to the mind.  
