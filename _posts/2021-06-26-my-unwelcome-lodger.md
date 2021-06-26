@@ -11,22 +11,22 @@ I find during the early stages of a migraine playing with words a helpful distra
 
 I recently read 'A Brain Wider Than the Sky' by Andrew Levy. A fascinating account of living with migraine with similar themes to my own. With this in mind, I wrote the below during my last attack.
 
-> A heavy smog lies on my brow
-> seeps down
-> my neck
+> A heavy smog lies on my brow  
+> seeps down  
+> my neck  
 > towards my nape.
 >
-> *I thought you had gone?*
-> I think, I wish,
-> but instead you settle
+> *I thought you had gone?*  
+> I think, I wish,  
+> but instead you settle  
 > for the rest of the day.
 >
-> You leave at night:
-> a senseless respite,
-> of calm and potential
+> You leave at night:  
+> a senseless respite,  
+> of calm and potential  
 > wasted in bed.
 >
-> So long have you stayed
-> that at times I don’t mind—
-> just be quiet, ‘til tomorrow
+> So long have you stayed  
+> that at times I don’t mind—  
+> just be quiet, ‘til tomorrow  
 > when I’ll see you again.
