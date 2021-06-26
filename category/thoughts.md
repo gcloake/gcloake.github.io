@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Writing
+title: Thoughts
 ---
 
