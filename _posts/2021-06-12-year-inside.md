@@ -6,12 +6,12 @@ categories:
 tags:
   - COVID-19
 ---
-Today I saw the seasons  
+Today I saw the seasons,  
 for the very first time. 
 
 A year inside  
 to open my eyes  
-now watch  
+and notice  
 the clematis climb. 
 
 Stop,  
