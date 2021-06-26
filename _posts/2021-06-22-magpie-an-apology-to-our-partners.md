@@ -1,11 +1,14 @@
 ---
 layout: post
+comments: true
 title: "Magpie: an apology to our partners"
 categories:
   - Poetry
 tags:
   - Relationships
 ---
+
+
 > Above the eaves lives a magpie   
 > who I blame for many things:  
 > stolen seeds, spilled milk,  
