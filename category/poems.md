@@ -3,4 +3,4 @@ layout: category
 title: Poems
 ---
 
-Previously posted poems by date.
+Previous posts by date.
