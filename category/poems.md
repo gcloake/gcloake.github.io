@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Poetry
+title: Poems
 ---
 
 Previously posted poems by date.
