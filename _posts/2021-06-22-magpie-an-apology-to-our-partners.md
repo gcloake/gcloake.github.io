@@ -6,22 +6,22 @@ categories:
 tags:
   - Relationships
 ---
-Above the eaves lives a magpie. 
+`Above the eaves lives a magpie   
 who I blame for many things:  
 stolen seeds, spilled milk,  
-shoes by the door.
+shoes by the door.`
 
-But you don't deserve this reputation,  
+`But you don't deserve this reputation,  
 these presumptions of mine.  
 I should see you as a blessing,  
-the beauty that you bring.
+the beauty that you bring.`
 
-Forgive me for lacking patience,  
+`Forgive me for lacking patience,  
 my accusations and ire.  
 Alone I'd have but sorrow--  
-together there is joy.
+together there is joy.`
 
-Continue to look over me magpie,  
+`Continue to look over me magpie,  
 my friend of many years.  
 Condemn me not, as I do you,  
-and stay for many more.
+and stay for many more.`
