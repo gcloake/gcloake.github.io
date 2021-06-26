@@ -27,4 +27,4 @@ I feel like time has changed over the last year. Many of us have had more of it,
 
 
 
-![](/Users/george/Documents/GitHub/gcloake.github.io/_images/IMG_0195.jpg)
+![](/images/IMG_0195.jpg)
