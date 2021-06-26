@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "A year inside"
 categories:
   - Poetry
