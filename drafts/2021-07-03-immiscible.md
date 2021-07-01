@@ -7,8 +7,6 @@ categories:
 tags:
   - Human Nature
 ---
-Just look at the Netflix True Crime category and its clear I'm not the only one interested in the darker side of our nature: how bad things happen and who the people behind them are. It's important to maintain perspective but we all have our fears, rational and irrational, compounded at night. Maybe I should have my murder for breakfast next time.
-
 > Fears pollute some nights like oil in a well.
 > A toxic sheen obscuring the altogether greater good.
 > I want to drink yet I’m drawn to them,
