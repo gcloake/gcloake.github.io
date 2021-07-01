@@ -7,10 +7,6 @@ categories:
 tags:
   - Human Nature
 ---
-I'm a serial starter of new projects but too easily distracted. I expect others can relate. I wrote this to encapsulate those feelings: the overwhelming, borderline obsession, on finding a new interest or passion. I've seen it in myself enough to acknowledge it now but, deep down, still hope those feelings don't fade.
-
-
-
 > A new discovery,  
 > ripe to the mind.  
 > A familiar feeling  
@@ -30,3 +26,4 @@ I'm a serial starter of new projects but too easily distracted. I expect others 
 > the feeling may wander.  
 > But until then  
 > it absorbs my all.
+
