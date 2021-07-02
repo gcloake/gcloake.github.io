@@ -16,7 +16,7 @@ tags:
 > Instead I guard, from afar,  
 > worried and contrite.  
 >
-> But to make it far you can’t go alone  
+> But to travel well you can’t go alone  
 > or so I’ve begun to see.  
 > This life is full of others too:  
 > I can be the absentee.
