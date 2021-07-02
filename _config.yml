@@ -18,7 +18,7 @@ author:
   name:           'George Cloake'
   url:            
 
-paginate:         1
+paginate:         2
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
@@ -35,8 +35,5 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 
 remote_theme: fongandrew/hydeout
-
-disqus:
-shortname: georgecloake
 
 google_analytics: UA-175425053-1
