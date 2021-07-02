@@ -8,7 +8,7 @@ tags:
 ---
 > I’m fine without directions,  
 > yet a fire and I’m not fine,  
-> though wouldn’t it be better to be not lost—  
+> though wouldn’t it be nice to be not lost—  
 > willing and supine.
 >
 > *You only need ask* I hear you say  
