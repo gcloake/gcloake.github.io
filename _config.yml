@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            gc
-tagline:          'A poetry journal'
-description:      'A poetry journal'
+tagline:          A poetry journal
+description:      A personal poetry journal: semifrequent poems and cathartic reflections.
 url:              https://www.georgecloake.com
 baseurl:
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,8 +15,8 @@ baseurl:
                   # sidebar_blog_link below.
 
 author:
-  name:           'George Cloake'
-  url:            
+  name:           George Cloake
+  url:            https://www.georgecloake.com
 
 paginate:         2
 # paginate_path:    '/page:num'
