@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Unself-sufficient"
+title: Unself-sufficient
+description: A poem on independence
 categories:
   - Poems
 tags:

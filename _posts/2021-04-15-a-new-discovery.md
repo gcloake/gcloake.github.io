@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "A new discovery"
+title: A new discovery
+description: A poem on new passions, interests, and people.
 categories:
   - Poems
 tags:

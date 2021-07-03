@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "My unwelcome lodger"
+title: My unwelcome lodger
+description: A poem on living with migraine
 categories:
   - Poems
 tags:

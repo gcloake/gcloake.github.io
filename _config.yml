@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            gc
 tagline:          'A poetry journal'
 description:      'A poetry journal'
-url:              https://gcloake.github.io
+url:              https://www.georgecloake.com
 baseurl:
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

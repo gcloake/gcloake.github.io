@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "A year inside"
+title: A year inside
+description: A poem on COVID-19
 categories:
   - Poems
 tags:
