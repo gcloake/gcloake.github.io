@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: "My unwelcome lodger"
 categories:
   - Poems

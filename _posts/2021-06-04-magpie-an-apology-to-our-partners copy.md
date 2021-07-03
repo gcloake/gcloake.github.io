@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: "Magpie: an apology to our partners"
 categories:
   - Poems

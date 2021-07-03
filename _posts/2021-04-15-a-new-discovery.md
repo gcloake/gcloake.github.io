@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: "A new discovery"
 categories:
   - Poems
