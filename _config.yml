@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            gc
-tagline:          A poetry journal
-description:      A personal poetry blog: the semifrequent poems and cathartic writing of George Cloake.
+tagline:          'A poetry journal'
+description:      'A personal poetry blog: the semifrequent poems and cathartic writing of George Cloake'
 url:              https://www.georgecloake.com
 baseurl:
                   # the optional subpath of your site, e.g. "/blog"
@@ -19,13 +19,13 @@ author:
   url:            https://www.georgecloake.com
   
 twitter:
-  username: GeorgeCloake
-  card: summary
+  username:       GeorgeCloake
+  card:           summary
   
 logo:             /favicon.png
 
 social:
-  name: George Cloake
+  name:           George Cloake
   links:
   - https://twitter.com/GeorgeCloake
 
