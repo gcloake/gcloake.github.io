@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Magpie: an apology to our partners'
-description: A poem on personal relationships
+title: "Magpie: an apology to our partners"
+description: "A poem on personal relationships"
 categories:
   - Poems
 tags:
