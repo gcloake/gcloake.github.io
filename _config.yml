@@ -1,38 +1,35 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
 
 # Setup
-title:            gc
-tagline:          'A poetry journal'
-description:      'A personal poetry journal, diary and archive to share semifrequent poems throughout the year.'
-url:              https://www.georgecloake.com
-baseurl:
-                  # the optional subpath of your site, e.g. "/blog"
-                  # NB: This applies to all pages in your Jekyll site.
-                  # If you want to move just the blog index pages but keep
-                  # other pages at root, see the paginate_path and
-                  # sidebar_blog_link below.
+title: gc
+tagline: 'A poetry journal'
+description: 'A personal poetry journal, diary and archive to share semifrequent poems throughout the year.'
+url: https://www.georgecloake.com
 
+# SEO
 author:
-  name:           George Cloake
-  url:            https://www.georgecloake.com
+  name: George Cloake
+  url: https://www.georgecloake.com
   
 twitter:
-  username:       GeorgeCloake
-  card:           summary
+  username: GeorgeCloake
+  card: summary
   
-logo:             /favicon.png
+logo: /favicon.png
 
 social:
-  name:           George Cloake
+  name: George Cloake
   links:
   - https://twitter.com/GeorgeCloake
 
-paginate:         2
+# Paginate
+paginate: 2
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -41,12 +38,14 @@ plugins:
   - jekyll-sitemap
 
 # Sidebar link settings
-sidebar_home_link:  true
+sidebar_home_link: true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 
+# Original theme
 remote_theme: fongandrew/hydeout
 
+# Analytics
 google_analytics: UA-175425053-1
