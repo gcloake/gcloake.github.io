@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            gc
 tagline:          'A poetry journal'
-description:      'A personal poetry blog: the semifrequent poems and cathartic writing of George Cloake'
+description:      'A personal poetry journal, diary and archive to share semifrequent poems throughout the year.'
 url:              https://www.georgecloake.com
 baseurl:
                   # the optional subpath of your site, e.g. "/blog"
