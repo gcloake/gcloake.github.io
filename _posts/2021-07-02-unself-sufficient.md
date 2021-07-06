@@ -3,9 +3,9 @@ layout: post
 title: Unself-sufficient
 description: A poem on independence
 categories:
-  - Poems
+  - Archive
 tags:
-  - Human Nature
+  - Human Nature, Poem
 ---
 > I’m fine without directions,  
 > yet a fire and I’m not fine,  
