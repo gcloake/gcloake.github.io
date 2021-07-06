@@ -8,6 +8,10 @@ tags:
   - Human Nature
   - Poem
 ---
+```html
+<iframe src="https://open.spotify.com/embed/track/2SOT09giYc28fUo9ppjCpw?theme=0" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+```
+
 > I’m fine without directions,  
 > yet a fire and I’m not fine,  
 > though wouldn’t it be nice to be not lost—  
