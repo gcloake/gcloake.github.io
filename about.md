@@ -7,7 +7,7 @@ sidebar_link: true
 <h1>Infrequently asked questions</h1>
 
   <h3>What is this website?</h3>
-A semi-consistent journal of thoughts, poems and pictures to help make sense of the world. A dumping ground for half-formed creative ideas: not quite the drivel in my phone's notes but not always particularly polished either. I've come to discover the fashionable term is 'digital garden' which seems fitting given where my interests lie.
+A semi-consistent journal of thoughts, poems and pictures to help make sense of the world. A dumping ground for half-formed creative ideas: not quite the drivel in my phone's notes but not always particularly polished either.
 
 <h3>Who's to blame for this?</h3>
 
