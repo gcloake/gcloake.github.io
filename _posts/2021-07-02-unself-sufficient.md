@@ -19,14 +19,14 @@ tags:
 > 
 >But to travel well you can’t go alone  
 > or so I’ve begun to see.  
-> This life is full of others too;  
+> This life is full of others too:  
 > I can be the absentee.  
-> And though my mind cannot always guide me,  
+> So what! My mind cannot always guide me,  
 >then a stranger’s will,  
 > and a stranger’s hands will save me,  
 > when I lack the skill.
 > 
-> So ask for help, let a little go,  
+> Ask for help, let a little go,  
 >now to passers-by I’ll say—  
 > “I *am* a bit lost but that’s just fine  
 > because we’re heading the same way.”
