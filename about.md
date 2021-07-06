@@ -8,4 +8,4 @@ A semifrequent journal of thoughts, poems and pictures to help make sense of the
 
 <h3>Who is to blame for this and how do I contact them?</h3>
 
-George Cloake. After individually struggling to achieve mediocrity at writing, poetry and photography I made the dubious decision to publicly double down and combine all three. If you wish to take this matter further you can contact me here.
+George Cloake. After individually struggling to achieve mediocrity at writing, poetry and art I made the dubious decision to publicly double down and combine all three. If you wish to take this matter further you can contact me here.
