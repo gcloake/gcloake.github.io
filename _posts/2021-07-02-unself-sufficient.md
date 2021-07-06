@@ -32,7 +32,3 @@ tags:
 > now to passers-by I’ll say—  
 > “I *am* a bit lost but that’s just fine  
 > because we’re heading the same way.”
-
-
-
-<iframe src="https://open.spotify.com/embed/track/2SOT09giYc28fUo9ppjCpw?theme=0" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
