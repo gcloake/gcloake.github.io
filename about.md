@@ -2,7 +2,6 @@
 layout: page
 title: About
 sidebar_link: true
-
 ---
 
 <h1>Infrequently asked questions</h1>
