@@ -13,9 +13,3 @@ A semi-consistent journal of thoughts, poems and pictures to help make sense of 
 
 George Cloake. After individually struggling to achieve mediocrity at writing, poetry and various visual arts I made the dubious decision to publicly triple down and combine all three. If you wish to take this matter further you can contact me here.
 
-You can also find me on the following sites:
-
-📚 Goodreads
-
-🖇 LinkedIn
-
