@@ -7,7 +7,7 @@ sidebar_link: true
 <h1>Infrequently asked questions</h1>
 
   <h3>What is this website?</h3>
-A semifrequent journal of thoughts, poems and pictures to help make sense of the world. A dumping ground for half-formed creative ideas: not quite the drivel in my phone's notes but not always particularly polished either.
+A semi-consistent journal of thoughts, poems and pictures to help make sense of the world. A dumping ground for half-formed creative ideas: not quite the drivel in my phone's notes but not always particularly polished either.
 
 <h3>Who is to blame for this and how do I contact them?</h3>
 
