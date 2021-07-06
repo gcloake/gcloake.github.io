@@ -20,7 +20,7 @@ tags:
 >But to travel well you can’t go alone  
 > or so I’ve begun to see.  
 > This life is full of others too;  
-> I can be the absentee.
+> I can be the absentee.  
 > And though my mind cannot always guide me,  
 >then a stranger’s will,  
 > and a stranger’s hands will save me,  
