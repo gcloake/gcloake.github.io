@@ -2,7 +2,6 @@
 layout: post
 title: Unself-sufficient
 description: A poem on independence
-updated: 2021-06-12
 categories:
   - Archive
 tags:
