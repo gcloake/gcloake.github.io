@@ -15,9 +15,9 @@ George Cloake. After individually struggling to achieve mediocrity at writing, p
 
 <h3>Who's to thank for this?</h3>
 
-<a href="https://pages.github.com">Github Pages</a>: for the hosting of this site.
+- <a href="https://pages.github.com">Github Pages</a>: for the hosting of this site.
 
-<a href="https://github.com/fongandrew">Andrew Fong</a> / <a href="https://github.com/mdo">Mark Otto</a>: for the excellent <a href="https://github.com/fongandrew/hydeout">Hydeout</a> theme on which this site is built under <a href="https://www.georgecloake.com/LICENSE.md">MIT Licence.</a>
+- <a href="https://github.com/fongandrew">Andrew Fong</a> / <a href="https://github.com/mdo">Mark Otto</a>: for the excellent <a href="https://github.com/fongandrew/hydeout">Hydeout</a> theme on which this site is built under <a href="https://www.georgecloake.com/LICENSE.md">MIT Licence</a>.
 
-Creative Commons: for the Attribution-NonCommercial Licence <a href="https://creativecommons.org/licenses/by-nc/4.0/">(CC BY-NC 4.0)</a> under which this site's content is provided.
+- Creative Commons: for the Attribution-NonCommercial Licence <a href="https://creativecommons.org/licenses/by-nc/4.0/">(CC BY-NC 4.0)</a> under which this site's content is provided.
 
