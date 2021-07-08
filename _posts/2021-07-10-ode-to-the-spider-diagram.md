@@ -10,4 +10,4 @@ tags:
 ---
 To be read clockwise. Dedicated to <a href="https://simplemind.eu">SimpleMind</a>.
 
-![An ode to the spider diagram poem](../images/ODETOTHESPIDERDIAGRAM.png)
+![An ode to the spider diagram poem](/images/ODETOTHESPIDERDIAGRAM.png)
