@@ -7,6 +7,7 @@ categories:
 tags:
   - Human Nature
   - Poem
+last_modified_at: 2021-06-12
 ---
 > I’m fine without directions,  
 > yet a fire and I’m not fine.  
