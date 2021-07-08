@@ -8,6 +8,6 @@ tags:
   - Design
   - Poem
 ---
-To be read clockwise. Dedicated to <a href="https://simplemind.eu">SimpleMind</a>.
+To be read clockwise. 
 
 ![An ode to the spider diagram poem](/images/ODETOTHESPIDERDIAGRAM.png)
