@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-</br>
+
 
 ![About](/images/ABOUT.jpg)
 
