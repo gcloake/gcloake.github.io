@@ -13,16 +13,7 @@ author:
   name: George Cloake
   url: https://www.georgecloake.com
   
-twitter:
-  username: GeorgeCloake
-  card: summary
-  
 logo: /favicon.png
-
-social:
-  name: George Cloake
-  links:
-  - https://twitter.com/GeorgeCloake
 
 # Paginate
 paginate: 2
