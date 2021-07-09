@@ -4,8 +4,6 @@ title: About
 sidebar_link: true
 ---
 
- <br />
-
 ![About](/images/ABOUT.jpg)
 
 <h2>Infrequently asked questions</h2>
