@@ -7,7 +7,7 @@ categories:
 tags:
   - Poem
 ---
-![My unwelcome lodger](/images/MYUNWELCOMELODGER.png)
+![My unwelcome lodger](/images/MYUNWELCOMELODGER.jpg)
 
 > A heavy smog lies on my brow  
 > seeps down  
