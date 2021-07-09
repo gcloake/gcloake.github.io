@@ -5,7 +5,6 @@ description: A poem on independence
 categories:
   - Archive
 tags:
-  - Human Nature
   - Poem
 ---
 > I’m fine without directions,  

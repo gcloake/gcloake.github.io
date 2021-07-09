@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Ode to the spider diagram
-description: A poem on the wonder of spider diagrams
+description: A poem on spider diagrams
 categories:
   - Archive
 tags:
-  - Design
   - Poem
 ---
 To be read clockwise. 
