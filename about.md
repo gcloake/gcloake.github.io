@@ -13,7 +13,7 @@ A semi-consistent journal of thoughts, poems and pictures to help make sense of 
 
 <h3>Who's to blame for this?</h3>
 
-George Cloake. After individually struggling to achieve mediocrity at writing, poetry and various visual arts I made the dubious decision to publicly triple down and combine all three. If you wish to take this matter further you can <a href="">contact me</a>.
+George Cloake. After individually struggling to achieve mediocrity at writing, poetry and various visual arts I made the dubious decision to publicly triple down and combine all three. If you wish to take this matter further you can contact me <a href="https://docs.google.com/forms/d/e/1FAIpQLSf81y4f_5W5W7VsZoLueOAyiZLvxY__duvBBhuaYiVdlBIWSw/viewform">here</a>.
 
 <h3>Who's to thank for this?</h3>
 
