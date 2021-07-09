@@ -4,15 +4,12 @@
         href="{{ "/" | relative_url }}">Latest</a>
   {% endif %}
 
-    <a class="page-link" href="https://www.georgecloake.com/tags.html">Filter</a>
-
-
   {% comment %}
     The code below dynamically generates a sidebar nav of pages with
     `sidebar_link: true` in the front-matter. See readme for usage.
   {% endcomment %}
 
-  
-  {% include category-links.html %}
   {% include page-links.html %}
+  {% include category-links.html %}
+
 </nav>
